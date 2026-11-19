@@ -1,0 +1,34 @@
+{
+  "attribution": "Isi: \"Dzikir Pagi & Petang Sesuai Sunnah Nabi\", Yayasan Cinta Sedekah (cintasedekah.org), dimurajaah Ustadz Abul Aswad Al Bayaty. Teks Arab: kanglerian/api-dzikir-pagi-petang (Lerian). Lihat NOTICE.md.",
+  "item": {
+    "id": "pagi-an-naas",
+    "collection": "pagi",
+    "order": 5,
+    "title": "Surat An-Naas",
+    "pdf_page": 14,
+    "pdf_pages": [
+      14
+    ],
+    "repeat": {
+      "count": 3,
+      "text": "Dibaca 3×"
+    },
+    "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ. قُلْ أَعُوذُ بِرَبِّ النَّاسِ. مَلِكِ النَّاسِ. إِلَهِ النَّاسِ. مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ. الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ. مِنَ الْجِنَّةِ وَالنَّاسِ",
+    "arabic_status": "matched",
+    "arabic_ref": {
+      "repo": "kanglerian/api-dzikir-pagi-petang",
+      "id": 5,
+      "confidence": "high"
+    },
+    "latin": "Qul a'uudzu bi rabbin naas Malikin naas Ilahinaas Min syarril waswaasil khannaas Alladzii yuwaswisu fii shuduurin naas Minal jinnati wannaas",
+    "translation": "Katakanlah, `Aku berlindung kepada Rabb (yang memelihara dan menguasai) manusia. Raja manusia. Sembahan (Ilah) manusia. Dari kejahatan (bisikan) syaitan yang biasa bersembunyi. Yang membisikkan (kejahatan) ke dalam dada-dada manusia. Dari golongan jin dan manusia.'",
+    "quran_ref": "An-Naas/114: 1-6",
+    "virtue": null,
+    "source": {
+      "text": "HR. Abu Dawud no. 5082, an-Nasa-i VIII/250 dan at-Tirmidzi no. 3575, Ahmad V/312, Shahiih at-Tirmidzi no. 2829, Tuhfatul Ahwadzi no. 3646, Shahiih at-Targhiib wat Tarhiib 1/411 no. 649, hasan shahih",
+      "grade": null,
+      "grade_text": "hasan shahih"
+    },
+    "notes": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "attribution": "Isi: \"Dzikir Pagi & Petang Sesuai Sunnah Nabi\", Yayasan Cinta Sedekah (cintasedekah.org), dimurajaah Ustadz Abul Aswad Al Bayaty. Teks Arab: kanglerian/api-dzikir-pagi-petang (Lerian). Lihat NOTICE.md.",
+  "item": {
+    "id": "pagi-ayat-kursi",
+    "collection": "pagi",
+    "order": 2,
+    "title": "Ayat Kursi",
+    "pdf_page": 10,
+    "pdf_pages": [
+      10,
+      11
+    ],
+    "repeat": {
+      "count": 1,
+      "text": "Dibaca 1×"
+    },
+    "arabic": "اللَّهُ لَا إِلَٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ ۚ لَا تَأْخُذُهُ سِنَةٌ وَلَا نَوْمٌ ۚ لَّهُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۗ مَن ذَا الَّذِي يَشْفَعُ عِندَهُ إِلَّا بِإِذْنِهِ ۚ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ ۖ وَلَا يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلَّا بِمَا شَاءَ ۚ وَسِعَ كُرْسِيُّهُ السَّمَاوَاتِ وَالْأَرْضَ ۖ وَلَا يَئُودُهُ حِفْظُهُمَا ۚ وَهُوَ الْعَلِيُّ الْعَظِيمُ",
+    "arabic_status": "matched",
+    "arabic_ref": {
+      "repo": "kanglerian/api-dzikir-pagi-petang",
+      "id": 2,
+      "confidence": "high"
+    },
+    "latin": "Allahu laa ilaa haillaa huwa hayyul qoyyuum, laa ta'khudzu sinatuu wa laa naum, lahuu maa fissamaawaati wamaa fil ardhi, mandzalladzii yasyfa'u `indahu illaa bi'idznihi ya'lamu maa baina aidiihim wa maa khalfahum, wa laa yukhiithuuna bi syai'im min `ilmihi illa bi maa syaa', wa si'a kursiyyuhus samaawaati wal ardhi, wa laa yaudhuhu hifdzu humaa wa huwal aliyyul `adhiim.",
+    "translation": "Allah tidak ada Ilah (yang berhak diibadahi dengan benar) melainkan Dia Yang Hidup Kekal lagi terus menerus mengurus (makhluk-Nya); tidak mengantuk dan tidak tidur. Kepunyaan-Nya apa yang ada di langit dan di bumi. Tidak ada yang dapat memberi syafa'at di sisi Allah tanpa izin-Nya. Allah mengetahui apa-apa yang (berada) dihadapan mereka, dan dibelakang mereka dan mereka tidak mengetahui apa-apa dari Ilmu Allah melainkan apa yang dikehendaki-Nya. Kursi Allah meliputi langit dan bumi. Dan Allah tidak merasa berat memelihara keduanya, Allah Mahatinggi lagi Mahabesar.",
+    "quran_ref": "Al-Baqarah/2: 255",
+    "virtue": "Barangsiapa yang membaca ayat ini ketika pagi hari, maka ia dilindungi dari (gangguan) jin hingga sore hari. Dan barangsiapa mengucapkannya ketika sore hari, maka ia dilindungi dari (gangguan) jin hingga pagi hari.",
+    "source": {
+      "text": "(Lihat Mustadrak Al-Hakim 1/562, Shahiih at-Targhiib wat Tarhiib 1/418 no. 662, shahih).",
+      "grade": "shahih",
+      "grade_text": "shahih)"
+    },
+    "notes": []
+  }
+}

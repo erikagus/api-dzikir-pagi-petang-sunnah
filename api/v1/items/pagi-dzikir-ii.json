@@ -1,0 +1,34 @@
+{
+  "attribution": "Isi: \"Dzikir Pagi & Petang Sesuai Sunnah Nabi\", Yayasan Cinta Sedekah (cintasedekah.org), dimurajaah Ustadz Abul Aswad Al Bayaty. Teks Arab: kanglerian/api-dzikir-pagi-petang (Lerian). Lihat NOTICE.md.",
+  "item": {
+    "id": "pagi-dzikir-ii",
+    "collection": "pagi",
+    "order": 7,
+    "title": "Dzikir pagi II",
+    "pdf_page": 16,
+    "pdf_pages": [
+      16
+    ],
+    "repeat": {
+      "count": 3,
+      "text": "Dibaca 3×"
+    },
+    "arabic": "رَضِيْتُ بِاللَّهِ رَبًّا، وَبِالْإِسْلَامِ دِيْنًا، وَبِمُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ نَبِيًّا",
+    "arabic_status": "matched",
+    "arabic_ref": {
+      "repo": "kanglerian/api-dzikir-pagi-petang",
+      "id": 13,
+      "confidence": "high"
+    },
+    "latin": "Radhiitu billahi rabba, wa bil islaama diina, wa bimuhammadin nabiyya.",
+    "translation": "Aku rela (ridha) Allah sebagai Rabb-ku (untukku dan orang lain), Islam sebagai agamaku dan Muhammad sebagai Nabiku (yang diutus oleh Allah).",
+    "quran_ref": null,
+    "virtue": "Barangsiapa membacanya sebanyak tiga kali ketika pagi dan sore, maka Allah memberikan keridhaan-Nya kepadanya pada hari Kiamat.",
+    "source": {
+      "text": "HR. Ahmad IV/337, Abu Dawud no. 5072, at-Tirmidzi no. 3389, Ibnu Majah no. 3870, an-Nasa-i dalam `Amalul Yaum wal Lailah no. 4 dan Ibnus Sunni no. 68, dishahihkan oleh Imam al-Hakim dalam al-Mustadrak 1/518 dan disetujui oleh Imam adz-Dzahabi, hasan. Lihat Shahiih At Targhiib wat Tarhiib I/415 no. 657, Shahiih At Targhiib wat Tarhiib al-Waabilish Shayyib hal. 170, Zaadul Ma'aad II/372, Silsilah al-Ahaadiits ash-Shahiihah no. 2686.",
+      "grade": "hasan",
+      "grade_text": "hasan"
+    },
+    "notes": []
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "api-dzikir-pagi-petang-sunnah",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API statis dzikir pagi & petang (isi buku Yayasan Cinta Sedekah, tanpa perubahan). Kode: MIT. Isi: bukan di bawah MIT, lihat NOTICE.md.",
+  "license": "MIT",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "validate": "node scripts/validate.js",
+    "test": "node --test test/api.test.js"
+  },
+  "engines": { "node": ">=20" }
+}

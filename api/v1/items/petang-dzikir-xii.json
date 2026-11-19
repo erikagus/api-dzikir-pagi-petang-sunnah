@@ -1,0 +1,34 @@
+{
+  "attribution": "Isi: \"Dzikir Pagi & Petang Sesuai Sunnah Nabi\", Yayasan Cinta Sedekah (cintasedekah.org), dimurajaah Ustadz Abul Aswad Al Bayaty. Teks Arab: kanglerian/api-dzikir-pagi-petang (Lerian). Lihat NOTICE.md.",
+  "item": {
+    "id": "petang-dzikir-xii",
+    "collection": "petang",
+    "order": 17,
+    "title": "Dzikir petang xii",
+    "pdf_page": 50,
+    "pdf_pages": [
+      50
+    ],
+    "repeat": {
+      "count": 100,
+      "text": "Dibaca 100×"
+    },
+    "arabic": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+    "arabic_status": "matched",
+    "arabic_ref": {
+      "repo": "kanglerian/api-dzikir-pagi-petang",
+      "id": 23,
+      "confidence": "high"
+    },
+    "latin": "Subhanallahi wabihamdihi",
+    "translation": "Mahasuci Allah, aku memuji-Nya.",
+    "quran_ref": null,
+    "virtue": null,
+    "source": {
+      "text": "HR. Muslim no. 2726. Syarah Muslim XVII/44. Dari Juwairiyah binti al- Harits radhiyallahu `anhuma HR. Muslim no. 2691 dan no. 2692, dari Abu Hurairah radhiyallahu `anhu Syarah Muslim XVII / 17-18, Shahiih at-Targhiib wat Tarhiib 1/413 no. 653.",
+      "grade": null,
+      "grade_text": null
+    },
+    "notes": []
+  }
+}

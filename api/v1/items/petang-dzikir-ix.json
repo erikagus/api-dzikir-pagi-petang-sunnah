@@ -1,0 +1,34 @@
+{
+  "attribution": "Isi: \"Dzikir Pagi & Petang Sesuai Sunnah Nabi\", Yayasan Cinta Sedekah (cintasedekah.org), dimurajaah Ustadz Abul Aswad Al Bayaty. Teks Arab: kanglerian/api-dzikir-pagi-petang (Lerian). Lihat NOTICE.md.",
+  "item": {
+    "id": "petang-dzikir-ix",
+    "collection": "petang",
+    "order": 14,
+    "title": "Dzikir petang ix",
+    "pdf_page": 48,
+    "pdf_pages": [
+      48
+    ],
+    "repeat": {
+      "count": 3,
+      "text": "Dibaca 3×"
+    },
+    "arabic": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "arabic_status": "matched",
+    "arabic_ref": {
+      "repo": "kanglerian/api-dzikir-pagi-petang",
+      "id": 12,
+      "confidence": "high"
+    },
+    "latin": "Bismillahi laa yadhurru ma'a smihi syaiun fil ardhi wa laa fis samaa'I wa huwa ssmii'ul aliim.",
+    "translation": "Dengan Menyebut Nama Allah, yang dengan Nama-Nya tidak ada satupun yang membahayakan, baik di bumi maupun dilangit. Dia-lah Yang Mahamendengar dan Maha mengetahui.",
+    "quran_ref": null,
+    "virtue": "Barangsiapa membacanya sebanyak tiga kali ketika pagi dan sore hari, maka tidak ada sesuatu pun yang membahayakan dirinya.",
+    "source": {
+      "text": "HR. At-Tirmidzi no. 3388, Abu Dawud no. 5088,Ibnu Majah no. 3869, al-Hakim 1/514, Dan Ahmad no. 446 dan 474, Tahqiq Ahmad Syakir. Dari `Utsman bin `Affan radhiyallahu `anhu, lihat Shahiih Ibni Majah no. 3120, al-Hakim 1/513, Shahiih al-Adabil Mufrad no. 513, Shahiih at-Targhiib wat Tarhiib 1/413 no. 655, sanad-nya shahih.",
+      "grade": "shahih",
+      "grade_text": "sanad-nya shahih"
+    },
+    "notes": []
+  }
+}

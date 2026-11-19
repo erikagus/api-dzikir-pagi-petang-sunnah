@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>API Dzikir Pagi &amp; Petang Sesuai Sunnah</title>
+  <meta name="description" content="API statis (JSON) dzikir pagi dan petang dari buku Dzikir Pagi &amp; Petang Sesuai Sunnah Nabi, Yayasan Cinta Sedekah.">
+  <style>
+    :root { color-scheme: light dark; }
+    body { font: 1rem/1.6 system-ui, sans-serif; max-width: 42rem; margin: 0 auto; padding: 1.5rem 1rem 3rem; }
+    h1 { font-size: 1.6rem; line-height: 1.25; }
+    h2 { font-size: 1.2rem; margin-top: 2rem; }
+    code { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 0.95em; }
+    a { text-underline-offset: 0.15em; }
+    a:focus-visible { outline: 3px solid currentColor; outline-offset: 3px; }
+    .skip { position: absolute; left: -999px; }
+    .skip:focus { left: 1rem; top: 1rem; background: Canvas; padding: 0.5rem; }
+    ul { padding-left: 1.25rem; }
+    li { margin: 0.35rem 0; }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#endpoint">Lompat ke daftar endpoint</a>
+  <header>
+    <h1>API Dzikir Pagi &amp; Petang Sesuai Sunnah</h1>
+    <p>API statis (berkas JSON) berisi dzikir pagi dan petang dari buku <em>Dzikir Pagi &amp; Petang Sesuai Sunnah Nabi</em>, Yayasan Cinta Sedekah. Isi buku diterbitkan tanpa perubahan.</p>
+  </header>
+  <main>
+    <section aria-labelledby="endpoint-h" id="endpoint">
+      <h2 id="endpoint-h">Endpoint</h2>
+      <ul>
+        <li><a href="api/v1/index.json"><code>api/v1/index.json</code></a>: daftar endpoint, versi, dan id item</li>
+        <li><a href="api/v1/pagi.json"><code>api/v1/pagi.json</code></a>: dzikir pagi</li>
+        <li><a href="api/v1/petang.json"><code>api/v1/petang.json</code></a>: dzikir petang</li>
+        <li><a href="api/v1/all.json"><code>api/v1/all.json</code></a>: pagi dan petang sekaligus</li>
+        <li><a href="api/v1/meta.json"><code>api/v1/meta.json</code></a>: metadata buku, waktu afdhol dan longgar</li>
+        <li><code>api/v1/items/&lt;id&gt;.json</code>: satu item, contoh <a href="api/v1/items/pagi-ayat-kursi.json"><code>pagi-ayat-kursi</code></a></li>
+      </ul>
+    </section>
+    <section aria-labelledby="dokumen-h">
+      <h2 id="dokumen-h">Dokumentasi</h2>
+      <ul>
+        <li><a href="https://github.com/erikagus/api-dzikir-pagi-petang-sunnah#readme">README (skema dan contoh pemakaian)</a></li>
+        <li><a href="https://github.com/erikagus/api-dzikir-pagi-petang-sunnah/blob/main/docs/FLAGS.md">FLAGS: item yang perlu diverifikasi</a></li>
+        <li><a href="https://github.com/erikagus/api-dzikir-pagi-petang-sunnah/blob/main/NOTICE.md">NOTICE: hak cipta dan atribusi</a></li>
+      </ul>
+    </section>
+    <section aria-labelledby="catatan-h">
+      <h2 id="catatan-h">Pemberitahuan</h2>
+      <p>Isi adalah milik Yayasan Cinta Sedekah (<a href="https://www.cintasedekah.org">cintasedekah.org</a>) dan tidak dilisensikan ulang. Teks Arab disalin dari <a href="https://github.com/kanglerian/api-dzikir-pagi-petang">kanglerian/api-dzikir-pagi-petang</a> (Lerian). Verifikasi teks Arab sebelum dipakai untuk hal penting.</p>
+    </section>
+  </main>
+</body>
+</html>

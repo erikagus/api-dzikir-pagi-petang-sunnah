@@ -1,0 +1,35 @@
+{
+  "attribution": "Isi: \"Dzikir Pagi & Petang Sesuai Sunnah Nabi\", Yayasan Cinta Sedekah (cintasedekah.org), dimurajaah Ustadz Abul Aswad Al Bayaty. Teks Arab: kanglerian/api-dzikir-pagi-petang (Lerian). Lihat NOTICE.md.",
+  "item": {
+    "id": "pagi-sayyidul-istighfar",
+    "collection": "pagi",
+    "order": 10,
+    "title": "Sayyidul Istighfar",
+    "pdf_page": 20,
+    "pdf_pages": [
+      20,
+      21
+    ],
+    "repeat": {
+      "count": 1,
+      "text": "Dibaca 1×"
+    },
+    "arabic": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ، خَلَقْتَنِي وَأَنَا عَبْدُكَ، وَأَنَا عَلَى عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ، أَعُوذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ، أَبُوءُ لَكَ بِنِعْمَتِكَ عَلَيَّ، وَأَبُوءُ لِذَنْبِي فَاغْفِرْ لِي فَإِنَّهُ لَا يَغْفِرُ الذُّنُوبَ إِلَّا أَنْتَ",
+    "arabic_status": "matched",
+    "arabic_ref": {
+      "repo": "kanglerian/api-dzikir-pagi-petang",
+      "id": 8,
+      "confidence": "high"
+    },
+    "latin": "Allahumma anta rabby laa ilaa hailla anta, khalaqtanii wa ana `abduka, wa ana `ala `ahdika wa wa'dika mas tatho'tu. `a uudzu bika min syarrimaa shana'tu, abuu `u laka bini'matika `alayya wa abuu'u bidhanbii, faghfirlii, fainnahu laa yaghfiru dzunuuba illa anta.",
+    "translation": "Ya Allah, Engkau lah Tuhanku. Tidak ada Tuhan selain Engkau. Engkau yang menciptakan aku dan aku adalah hamba-Mu. Aku berada di dalam hidayahmu, dan perjanjian dengan-Mu. Sebisa yang aku mampu. Aku berlindung kepada-Mu, dari segala kejelekan yang aku perbuat. Aku bersyukur atas nikmat yang Engkau limpahkan kepada kami, dan aku menyesal atas segala yang dosa yang aku perbuat. Maka ampunilah aku, sesungguhnya tidak ada yang dapat mengampuni dosa selain Engkau.",
+    "quran_ref": null,
+    "virtue": "Barangsiapa membacanya dengan yakin di waktu pagi lalu ia meninggal sebelum masuk waktu sore, maka ia termasuk ahli Surga. Dan barangsiapa membacanya dengan yakin di waktu sore lalu ia meninggal sebelum masuk waktu pagi, maka ia termasuk ahli Surga.",
+    "source": {
+      "text": "(HR. Al-Bukhari no. 6306, 6323, Ahmad IV/122-125, an-Nasa-i VIII/279-280) dari Syaddad bin Aus Radhiyallahu `anhu",
+      "grade": null,
+      "grade_text": null
+    },
+    "notes": []
+  }
+}

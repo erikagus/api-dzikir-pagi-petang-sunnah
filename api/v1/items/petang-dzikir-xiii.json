@@ -1,0 +1,46 @@
+{
+  "attribution": "Isi: \"Dzikir Pagi & Petang Sesuai Sunnah Nabi\", Yayasan Cinta Sedekah (cintasedekah.org), dimurajaah Ustadz Abul Aswad Al Bayaty. Teks Arab: kanglerian/api-dzikir-pagi-petang (Lerian). Lihat NOTICE.md.",
+  "item": {
+    "id": "petang-dzikir-xiii",
+    "collection": "petang",
+    "order": 18,
+    "title": "Dzikir petang xiii",
+    "pdf_page": 51,
+    "pdf_pages": [
+      51
+    ],
+    "repeat": {
+      "count": null,
+      "text": "Dibaca 1× atau 10x atau 100x"
+    },
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+    "arabic_status": "matched",
+    "arabic_ref": {
+      "repo": "kanglerian/api-dzikir-pagi-petang",
+      "id": 15,
+      "confidence": "high",
+      "alt_ids": [
+        22
+      ]
+    },
+    "latin": "Laa ilaahaillallah wahdahu laa syariikalahu, lahul mulku walahul hamdu wa huwa alaa kulli syain qadiir.",
+    "translation": "Tidak ada Tuhan selain Allah, Yang Mahaesa tidak ada sekutu bagi-Nya, milik-Nyalah segala kerajaan dan bagi-Nya pujian dan Dia Mahaberkuasa atas segala sesuatu.",
+    "quran_ref": null,
+    "virtue": "Barangsiapa membacanya sebanyak 100x dalam sehari, maka baginya (pahala) seperti memerdekakan sepuluh budak, ditulis seratus kebaikan, dihapus darinya seratus keburukan, mendapat perlindungan dari syaitan pada hari itu hingga sore hari. Tidaklah seseorang itu dapat mendatangkan yang lebih baik dari apa yang dibawanya kecuali ia melakukan lebih banyak lagi dari itu.",
+    "source": {
+      "text": "HR. Al-Bukhari no. 3293 dan 6403, Muslim IV/2071 no. 2691 (28), at-Tirmidzi no. 3468, Ibnu Majah no. 3798, dari Sahabat Abu Hurairah.",
+      "grade": null,
+      "grade_text": null
+    },
+    "notes": [
+      {
+        "label": "Catatan",
+        "text": "Jumlah yang terbanyak dari dzikir-dzikir Nabi adalah seratus diwaktu pagi dan seratus diwaktu sore. Adapun riwayat yang menyebutkan sampai seribu, seratus ribu atau penyebutan suatu bilangan yang diada-adakan adalah munkar, karena haditsnya dha'if bahkan palsu. (Silsilah al-Ahaadiits adh-Dha-'iifah no. 5296)."
+      },
+      {
+        "label": "Penjelasan",
+        "text": "Dalam riwayat an-Nasa-i (`Amalul Yaum wal Lailah no. 580) dan Ibnus Sunni no. 75 dari `Amr bin Syu'aib dari ayahnya dari kakeknya dengan lafadz: \"Barangsiapa membaca 100x pada pagi hari dan 100x pada sore Hari.\"... Jadi, dzikir ini dibaca 100x diwaktu pagi dan 100x diwaktu sore. Lihat Silsilah al-Ahaadiits ash-Shahiihah no. 2762"
+      }
+    ]
+  }
+}

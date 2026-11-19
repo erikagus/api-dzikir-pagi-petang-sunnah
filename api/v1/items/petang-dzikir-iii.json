@@ -1,0 +1,34 @@
+{
+  "attribution": "Isi: \"Dzikir Pagi & Petang Sesuai Sunnah Nabi\", Yayasan Cinta Sedekah (cintasedekah.org), dimurajaah Ustadz Abul Aswad Al Bayaty. Teks Arab: kanglerian/api-dzikir-pagi-petang (Lerian). Lihat NOTICE.md.",
+  "item": {
+    "id": "petang-dzikir-iii",
+    "collection": "petang",
+    "order": 8,
+    "title": "Dzikir petang III",
+    "pdf_page": 39,
+    "pdf_pages": [
+      39
+    ],
+    "repeat": {
+      "count": 1,
+      "text": "Dibaca 1×"
+    },
+    "arabic": "اللَّهُمَّ بِكَ أَمْسَيْنَا، وَبِكَ أَصْبَحْنَا، وَبِكَ نَحْيَا، وَبِكَ نَمُوتُ وَإِلَيْكَ الْمَصِيرُ",
+    "arabic_status": "matched",
+    "arabic_ref": {
+      "repo": "kanglerian/api-dzikir-pagi-petang",
+      "id": 7,
+      "confidence": "high"
+    },
+    "latin": "Allahumma bika amsaynaa wa bika ashbahnaa wa bika nahyaa, wa bika namuutu wa ilaikal mashir.",
+    "translation": "Ya Allah, dengan rahmat dan pertolongan-Mu kami memasuki waktu petang, dan dengan rahmat dan pertolongan-Mu kami memasuki waktu pagi. Dengan rahmat dan kehendak-Mu kami hidup dan dengan rahmat dan kehendak-Mu kami mati. Dan kepada-Mu tempat kembali (bagi semua makhluk).",
+    "quran_ref": null,
+    "virtue": null,
+    "source": {
+      "text": "HR. Al-Bukhari dalam al-Adabul Mufrad no. 1199, lafazh ini adalah lafazh al-Bukhari, at-Tirmidzi no. 3391, Abu Dawud no. 5068, Ahmad 11/354, Ibnu Majah no. 3868, Dari Abu Hurairah Radhiyallahu `anhu. Shahiih al-Adabil Mufrad no. 911, shahih. Lihat pula Silsilah al-Ahaadiits ash-Shahiihah no. 262.",
+      "grade": "shahih",
+      "grade_text": "shahih"
+    },
+    "notes": []
+  }
+}

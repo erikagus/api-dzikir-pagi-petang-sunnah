@@ -1,0 +1,35 @@
+{
+  "attribution": "Isi: \"Dzikir Pagi & Petang Sesuai Sunnah Nabi\", Yayasan Cinta Sedekah (cintasedekah.org), dimurajaah Ustadz Abul Aswad Al Bayaty. Teks Arab: kanglerian/api-dzikir-pagi-petang (Lerian). Lihat NOTICE.md.",
+  "item": {
+    "id": "petang-ta-awudz",
+    "collection": "petang",
+    "order": 1,
+    "title": "Ta'awudz",
+    "title_id_note": "Buku tidak memberi judul terpisah; kalimat ini tertulis sebagai kutipan di bagian atas halaman Ayat Kursi dan dipisah menjadi item sendiri.",
+    "pdf_page": 32,
+    "pdf_pages": [
+      32
+    ],
+    "repeat": {
+      "count": null,
+      "text": null
+    },
+    "arabic": "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+    "arabic_status": "matched",
+    "arabic_ref": {
+      "repo": "kanglerian/api-dzikir-pagi-petang",
+      "id": 1,
+      "confidence": "high"
+    },
+    "latin": null,
+    "translation": "Aku berlindung kepada Allah dari godaan syaitan yang terkutuk.",
+    "quran_ref": null,
+    "virtue": null,
+    "source": {
+      "text": null,
+      "grade": null,
+      "grade_text": null
+    },
+    "notes": []
+  }
+}

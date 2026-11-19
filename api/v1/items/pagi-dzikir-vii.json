@@ -1,0 +1,34 @@
+{
+  "attribution": "Isi: \"Dzikir Pagi & Petang Sesuai Sunnah Nabi\", Yayasan Cinta Sedekah (cintasedekah.org), dimurajaah Ustadz Abul Aswad Al Bayaty. Teks Arab: kanglerian/api-dzikir-pagi-petang (Lerian). Lihat NOTICE.md.",
+  "item": {
+    "id": "pagi-dzikir-vii",
+    "collection": "pagi",
+    "order": 12,
+    "title": "Dzikir pagi vii",
+    "pdf_page": 24,
+    "pdf_pages": [
+      24
+    ],
+    "repeat": {
+      "count": 3,
+      "text": "Dibaca 3×"
+    },
+    "arabic": "اللَّهُمَّ عَافِنِي فِي بَدَنِي، اللَّهُمَّ عَافِنِي فِي سَمْعِي، اللَّهُمَّ عَافِنِي فِي بَصَرِي، لَا إِلَهَ إِلَّا أَنْتَ. اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ، وَأَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، لَا إِلَهَ إِلَّا أَنْتَ",
+    "arabic_status": "matched",
+    "arabic_ref": {
+      "repo": "kanglerian/api-dzikir-pagi-petang",
+      "id": 9,
+      "confidence": "high"
+    },
+    "latin": "Allahumma `aafinii fii badani, Allahumma `aafini fii sasm'ii, Allahumma `Aafini fii basharii, laa ilaa haillah anta, Allahumma inni `auudzubika minal kufri walfaqri, Allahumma innii `audzubika min `adzaabil qabri, laa ilahaillaa anta.",
+    "translation": "Ya Allah, selamatkanlah tubuhku (dari penyakit dan dari apa yang tidak aku inginkan). Ya Allah, sehatkanlah pendengaranku. Ya Allah, sehatkanlah penglihatanku, tidak ada Ilah yang berhak diibadahi dengan benar kecuali Engkau. Ya Allah sesungguhnya aku berlindung kepada-Mu dari kekufuran dan kefakiran. Aku berlindung kepada-Mu dari siksa kubur, tidak ada Ilah yang berhak diibadahi dengan benar kecuali Engkau.",
+    "quran_ref": null,
+    "virtue": null,
+    "source": {
+      "text": "HR. Al-Bukhari dalam Shahiib al-Adabil Mufrad no. 701, Abu Dawud no. 5090, Ahmad V/42, hasan. Lihat Shahiih Al-Adabil Mufrad no.539",
+      "grade": "hasan",
+      "grade_text": "hasan"
+    },
+    "notes": []
+  }
+}

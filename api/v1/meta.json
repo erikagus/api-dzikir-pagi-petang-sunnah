@@ -1,0 +1,56 @@
+{
+  "version": "1.0.0",
+  "book": {
+    "title": "Dzikir Pagi & Petang Sesuai Sunnah Nabi",
+    "publisher": "Yayasan Cinta Sedekah",
+    "website": "www.cintasedekah.org",
+    "email": "sekretariat@cintasedekah.org",
+    "penyusun": "Sekretariat Yayasan Cinta Sedekah; Ustadz Abul Aswad Al Bayaty",
+    "murajaah": "Ustadz Abul Aswad Al Bayaty",
+    "murajaah_note": "Sampul: \"Dimurajaah : Ustadz Abul Aswad Al Bayaty\". Halaman hak cipta buku memuat nama lain pada baris Murajaah (lihat credits_page_text).",
+    "copyright_notice": "Dilarang mengubah apapun isi tulisan tanpa izin dari penulis. Hak cipta dilindungi Undang-undang. All rights reserved",
+    "credits_page_text": "Dzikir\nPagi & Petang\nSesuai Sunnah Nabi\nPenyusun : Sekretariat Yayasan Cinta Sedekah\nUstadz Abul Aswad Al Bayaty\nMurajaah : Ikhsan Abu Salamah\nIkhsan Abu Salamah\nPenata Letak :\nDesain Sampul :\nDilarang mengubah apapun isi tulisan tanpa izin dari\npenulis. Hak cipta dilindungi Undang-undang.\nAll rights reserved\nYAYASAN CINTA SEDEKAH\nJl. Nyi Ageng NIS, KG/511\nKelurahan Rejowinangun, Kotagede, Yogyakarta\nwww.cintasedekah.org - sekretariat@cintasedekah.org",
+    "pdf_pages": {
+      "pagi": [
+        10,
+        30
+      ],
+      "petang": [
+        32,
+        51
+      ],
+      "waktu_dzikir": 8
+    }
+  },
+  "waktu": {
+    "source_pdf_page": 8,
+    "afdhol": {
+      "heading": "Waktu Afdhol",
+      "text": "dan bertasbihlah kepada-Allah pada saat bukroh dan ashiil. (QS. Al-Ahzab : 42) Bukroh maknanya adalah awal hari, yaitu antara subuh sampai terbit ashil matahari. Adapun adalah, sore hari, antara asar sampai tiba waktu maghrib. (Lihat : Al -Wabil As Shoyyib, Ibnul Qayyim, hal. 93)"
+    },
+    "longgar": {
+      "heading": "Waktu Longgar",
+      "text": "Adapun di luar waktu afdhol, di sana ada waktu longgar untuk berdzikir pagi petang. Yaitu pagi dimulai dari setengah malam terakhir sampai sebelum tergelincir matahari ke barat (waktu dhuhur/zawal). Kemudian sore dimulai sejak zawal sampai akhir pertengahan malam awal. Dalam Fatawa Syabakah Islamiyyah dijelaskan, \"Waktu pagi dimulai sejak setengah malam yang akhir sampai waktu waktu zawal. Namun waktu afdhol untuk dzikir pagi adalah membacanya setelah subuh sampai terbit matahari. Sebagaimana waktu petang dimulai sejak zawal sampai akhir setengah malam awal. Namun waktu yang afdhol untuk dzikir petang adalah setelah asar sampai tenggelamnya matahari.\" (Fatawa Syabakah Islamiyyah no.106945) Artinya saat seorang lupa, ketiduran atau faktor halangan lainnya, untuk dapat berdzikir pagi dan petang di waktu yang afdhol, maka dia masih berkesempatan membaca dzikir-dzikir itu di waktu longgar di atas. Wallahualam bis showab."
+    },
+    "note": "Teks diambil apa adanya dari ekstraksi PDF. Ayat Arab dan satu kata Arab pada paragraf pertama hilang/bergeser saat ekstraksi; lihat docs/FLAGS.md."
+  },
+  "epigraphs": {
+    "pagi": "Ingatlah, hanya dengan mengingat Allah hati menjadi tenteram. [Ar Ra'du ; 28]",
+    "petang": "\"Berdzikirlah (dengan menyebut) nama rabb-mu dan beribadahlah kepada-Nya dengan penuh ketekunan.\" [Al-Muzzammil: 8]"
+  },
+  "counts": {
+    "pagi": 19,
+    "petang": 18,
+    "total": 37,
+    "book_groups": {
+      "pagi": 18,
+      "petang": 17
+    },
+    "book_groups_note": "Item = grup di buku + 1 item Ta'awudz yang dipisah dari halaman Ayat Kursi. Grup buku: Ayat Kursi, Al-Ikhlas, Al-Falaq, An-Naas, lalu Dzikir i s.d. XIV (pagi) / i s.d. xiii (petang); Sayyidul Istighfar menempati nomor v tanpa label angka; Dzikir XII tertanam di halaman XI.",
+    "arabic": {
+      "matched": 37,
+      "ambiguous": 0,
+      "unmatched": 0
+    }
+  }
+}

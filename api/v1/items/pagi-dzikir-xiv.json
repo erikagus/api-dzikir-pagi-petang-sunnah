@@ -1,0 +1,43 @@
+{
+  "attribution": "Isi: \"Dzikir Pagi & Petang Sesuai Sunnah Nabi\", Yayasan Cinta Sedekah (cintasedekah.org), dimurajaah Ustadz Abul Aswad Al Bayaty. Teks Arab: kanglerian/api-dzikir-pagi-petang (Lerian). Lihat NOTICE.md.",
+  "item": {
+    "id": "pagi-dzikir-xiv",
+    "collection": "pagi",
+    "order": 19,
+    "title": "Dzikir pagi XIV",
+    "pdf_page": 30,
+    "pdf_pages": [
+      30
+    ],
+    "repeat": {
+      "count": 100,
+      "text": "Dibaca 100x dalam sehari"
+    },
+    "arabic": "أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ",
+    "arabic_status": "matched",
+    "arabic_ref": {
+      "repo": "kanglerian/api-dzikir-pagi-petang",
+      "id": 24,
+      "confidence": "high"
+    },
+    "latin": "Astaghfirullah wa atuubu ilaihi.",
+    "translation": "Aku memohon ampunan kepada Allah dan bertaubat kepada-Nya.",
+    "quran_ref": null,
+    "virtue": null,
+    "source": {
+      "text": "HR. Al-Bukhari/ Fat-hul Baari XI/101 dan Muslim no.2702",
+      "grade": null,
+      "grade_text": null
+    },
+    "notes": [
+      {
+        "label": "Catatan",
+        "text": "Jumlah yang terbanyak dari dzikir-dzikir Nabi adalah seratus diwaktu pagi dan seratus diwaktu sore. Adapun riwayat yang menyebutkan sampai seribu, seratus ribu atau penyebutan suatu bilangan yang diada-adakan adalah munkar, karena haditsnya dha'if bahkan palsu. (Silsilah al-Ahaadiits adh-Dha-'iifah no. 5296)."
+      },
+      {
+        "label": "Dalil tambahan",
+        "text": "Dari Ibnu `Umar ia berkata: \"Rasulullah bersabda: `Wahai manusia, bertaubatlah kalian kepada Allah, sesungguhnya aku bertaubat kepada-Nya dalam sehari seratus kali.'\" [HR. Muslim no. 2702 (42)"
+      }
+    ]
+  }
+}

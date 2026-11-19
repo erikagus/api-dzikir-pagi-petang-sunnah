@@ -1,0 +1,34 @@
+{
+  "attribution": "Isi: \"Dzikir Pagi & Petang Sesuai Sunnah Nabi\", Yayasan Cinta Sedekah (cintasedekah.org), dimurajaah Ustadz Abul Aswad Al Bayaty. Teks Arab: kanglerian/api-dzikir-pagi-petang (Lerian). Lihat NOTICE.md.",
+  "item": {
+    "id": "pagi-dzikir-viii",
+    "collection": "pagi",
+    "order": 13,
+    "title": "Dzikir pagi viii",
+    "pdf_page": 25,
+    "pdf_pages": [
+      25
+    ],
+    "repeat": {
+      "count": 1,
+      "text": "Dibaca 1×"
+    },
+    "arabic": "اللَّهُمَّ عَالِمَ الْغَيْبِ وَالشَّهَادَةِ، فَاطِرَ السَّمَاوَاتِ وَالْأَرْضِ، رَبَّ كُلِّ شَيْءٍ وَمَلِيكَهُ، أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ، أَعُوذُ بِكَ مِنْ شَرِّ نَفْسِي، وَمِنْ شَرِّ الشَّيْطَانِ وَشِرْكِهِ، وَأَنْ أَقْتَرِفَ عَلَى نَفْسِي سُوءًا أَوْ أَجُرَّهُ إِلَى مُسْلِمٍ",
+    "arabic_status": "matched",
+    "arabic_ref": {
+      "repo": "kanglerian/api-dzikir-pagi-petang",
+      "id": 11,
+      "confidence": "high"
+    },
+    "latin": "Allahumma `aalimal ghaibi was syahaadah, faathiras samaawaati wal ardhi, rabba kulli syain in wa maliikahu, asyhadu allaa ilaa hailla anta, a'udzuu bika min syarri nafsii, wa min syarri syaithoni wa syirkihi, wa an aqtarifa `alaa nafsi suu'aan au ajurrohu ila muslim.",
+    "translation": "Ya Allah Yang Mahamengetahui yang ghaib dan yang nyata, wahai Rabb Pencipta langit dan bumi, Rabb atas segala sesuatu dan Yang Merajainya. Aku bersaksi bahwa tidak ada Ilah yang berhak diibadahi dengan benar kecuali Engkau. Aku berlindung kepada-Mu dari kejahatan diriku, syaitan dan ajakannya menyekutukan Allah (aku berlindung kepada-Mu) dari berbuat kejelekan atas diriku atau mendorong seorang muslim kepadanya.",
+    "quran_ref": null,
+    "virtue": null,
+    "source": {
+      "text": "HR. Al-Bukhari dalam Al-Adabul Mufrad 1202, at-Tirmidzi no.3392 dan Abu Daud no. 5067,Lihat Shahih At- Tirmidzi no. 2798.",
+      "grade": null,
+      "grade_text": null
+    },
+    "notes": []
+  }
+}

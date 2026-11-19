@@ -1,0 +1,83 @@
+{
+  "name": "API Dzikir Pagi & Petang Sesuai Sunnah",
+  "version": "1.0.0",
+  "description": "API statis (JSON) berisi dzikir pagi & petang dari buku \"Dzikir Pagi & Petang Sesuai Sunnah Nabi\" (Yayasan Cinta Sedekah), tanpa perubahan isi.",
+  "base_url_placeholder": "https://erikagus.github.io/api-dzikir-pagi-petang-sunnah/api/v1/",
+  "endpoints": {
+    "index": "index.json",
+    "meta": "meta.json",
+    "pagi": "pagi.json",
+    "petang": "petang.json",
+    "all": "all.json",
+    "item": "items/{id}.json"
+  },
+  "counts": {
+    "pagi": 19,
+    "petang": 18,
+    "total": 37,
+    "book_groups": {
+      "pagi": 18,
+      "petang": 17
+    },
+    "book_groups_note": "Item = grup di buku + 1 item Ta'awudz yang dipisah dari halaman Ayat Kursi. Grup buku: Ayat Kursi, Al-Ikhlas, Al-Falaq, An-Naas, lalu Dzikir i s.d. XIV (pagi) / i s.d. xiii (petang); Sayyidul Istighfar menempati nomor v tanpa label angka; Dzikir XII tertanam di halaman XI.",
+    "arabic": {
+      "matched": 37,
+      "ambiguous": 0,
+      "unmatched": 0
+    }
+  },
+  "item_ids": {
+    "pagi": [
+      "pagi-ta-awudz",
+      "pagi-ayat-kursi",
+      "pagi-al-ikhlas",
+      "pagi-al-falaq",
+      "pagi-an-naas",
+      "pagi-dzikir-i",
+      "pagi-dzikir-ii",
+      "pagi-dzikir-iii",
+      "pagi-dzikir-iv",
+      "pagi-sayyidul-istighfar",
+      "pagi-dzikir-vi",
+      "pagi-dzikir-vii",
+      "pagi-dzikir-viii",
+      "pagi-dzikir-ix",
+      "pagi-dzikir-x",
+      "pagi-dzikir-xi",
+      "pagi-dzikir-xii",
+      "pagi-dzikir-xiii",
+      "pagi-dzikir-xiv"
+    ],
+    "petang": [
+      "petang-ta-awudz",
+      "petang-ayat-kursi",
+      "petang-al-ikhlas",
+      "petang-al-falaq",
+      "petang-an-naas",
+      "petang-dzikir-i",
+      "petang-dzikir-ii",
+      "petang-dzikir-iii",
+      "petang-dzikir-iv",
+      "petang-sayyidul-istighfar",
+      "petang-dzikir-vi",
+      "petang-dzikir-vii",
+      "petang-dzikir-viii",
+      "petang-dzikir-ix",
+      "petang-dzikir-x",
+      "petang-dzikir-xi",
+      "petang-dzikir-xii",
+      "petang-dzikir-xiii"
+    ]
+  },
+  "source": {
+    "book": "Dzikir Pagi & Petang Sesuai Sunnah Nabi",
+    "publisher": "Yayasan Cinta Sedekah",
+    "website": "www.cintasedekah.org",
+    "arabic_from": {
+      "repo": "kanglerian/api-dzikir-pagi-petang",
+      "url": "https://github.com/kanglerian/api-dzikir-pagi-petang",
+      "note": "Teks Arab disalin apa adanya dari repositori ini."
+    }
+  },
+  "notice": "Isi bukan milik pemilik repositori ini. Lihat NOTICE.md dan docs/FLAGS.md."
+}
