@@ -210,7 +210,7 @@ function build() {
     version: VERSION,
     description:
       'API statis (JSON) berisi dzikir pagi & petang dari buku "Dzikir Pagi & Petang Sesuai Sunnah Nabi" (Yayasan Cinta Sedekah), tanpa perubahan isi.',
-    base_url_placeholder: 'https://erikagus.github.io/api-dzikir-pagi-petang-sunnah/api/v1/',
+    base_url: 'https://erikagus.github.io/api-dzikir-pagi-petang-sunnah/api/v1/',
     endpoints: {
       index: 'index.json',
       meta: 'meta.json',
